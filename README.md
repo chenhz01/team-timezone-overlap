@@ -8,6 +8,8 @@ best windows. Pure CLI, no accounts, no calendar access. If your standup
 time was chosen by whoever complained loudest, this is for you; if your team
 sits in one timezone, you don't need it.
 
+<p align="center"><img src="docs/demo.gif" alt="demo" width="720"></p>
+
 ## Problem
 
 Distributed teams pick meeting times by trial and error, and the burden
